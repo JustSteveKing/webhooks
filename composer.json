@@ -46,6 +46,10 @@
       "./vendor/bin/pest"
     ]
   },
+  "suggest": {
+    "nyholm/psr7": "A fantastic PSR-7 library that also supports PSR-17",
+    "symfony/http-client": "A PSR-18 compliant HTTP Client that will work out of the box."
+  },
   "config": {
     "sort-packages": true,
     "optimize-autoloader": true,
