@@ -1,6 +1,6 @@
 {
   "name": "juststeveking/webhooks",
-  "description": "The simplest way to start sending webhooks.",
+  "description": "The simplest way to start sending webhooks in PHP.",
   "type": "library",
   "license": "MIT",
   "authors": [
@@ -13,10 +13,7 @@
   ],
   "require": {
     "php": "^8.2",
-    "php-http/client-common": "^2.6",
     "php-http/discovery": "^1.15.2",
-    "psr/http-client": "^1.0.1",
-    "psr/http-factory": "^1.0.1",
     "thecodingmachine/safe": "^2.4"
   },
   "require-dev": {
