@@ -13,7 +13,7 @@
 [badge-downloads]: https://img.shields.io/packagist/dt/juststeveking/webhooks.svg?style=flat-square&colorB=mediumvioletred
 
 [packagist]: https://packagist.org/packages/juststeveking/webhooks
-[license]: https://github.com/juststeveking/webhooks/blob/master/LICENSE
+[license]: https://github.com/juststeveking/webhooks/blob/main/LICENSE.md
 [php]: https://php.net
 [downloads]: https://packagist.org/packages/juststeveking/webhooks
 <!-- BADGES_END -->
