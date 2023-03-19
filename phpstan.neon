@@ -1,0 +1,15 @@
+includes:
+    - vendor/thecodingmachine/phpstan-safe-rule/phpstan-safe-rule.neon
+
+parameters:
+
+    paths:
+        - src/
+
+    level: 9
+
+    ignoreErrors:
+
+    excludePaths:
+
+    checkMissingIterableValueType: false
