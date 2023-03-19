@@ -3,6 +3,7 @@
 <!-- BADGES_START -->
 [![Latest Version][badge-release]][packagist]
 [![Software License][badge-license]][license]
+[![Run Tests](https://github.com/JustSteveKing/webhooks/actions/workflows/tests.yml/badge.svg)](https://github.com/JustSteveKing/webhooks/actions/workflows/tests.yml)
 [![PHP Version][badge-php]][php]
 [![Total Downloads][badge-downloads]][downloads]
 
