@@ -8,6 +8,10 @@
 > which signs and verifies webhooks with HTTP Message Signatures
 > ([RFC 9421](https://www.rfc-editor.org/rfc/rfc9421)), the IETF standard. Outside Laravel, use
 > any RFC 9421 implementation.
+>
+> ```bash
+> composer require juststeveking/api-toolbox
+> ```
 
 <!-- BADGES_START -->
 [![Latest Version][badge-release]][packagist]
