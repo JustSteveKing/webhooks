@@ -1,5 +1,14 @@
 # Webhooks
 
+> [!WARNING]
+> **This package is abandoned and the repository is archived.** It will get no further fixes,
+> including security fixes.
+>
+> For Laravel applications, use [juststeveking/api-toolbox](https://github.com/JustSteveKing/api-toolbox),
+> which signs and verifies webhooks with HTTP Message Signatures
+> ([RFC 9421](https://www.rfc-editor.org/rfc/rfc9421)), the IETF standard. Outside Laravel, use
+> any RFC 9421 implementation.
+
 <!-- BADGES_START -->
 [![Latest Version][badge-release]][packagist]
 [![Software License][badge-license]][license]
